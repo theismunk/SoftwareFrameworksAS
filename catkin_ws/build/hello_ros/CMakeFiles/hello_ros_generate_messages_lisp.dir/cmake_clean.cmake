@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/hello_ros_generate_messages_lisp"
-  "/home/theis/catkin_ws/devel/.private/hello_ros/share/common-lisp/ros/hello_ros/msg/turtle.lisp"
+  "/home/theis/SoftwareFrameworksAS/catkin_ws/devel/.private/hello_ros/share/common-lisp/ros/hello_ros/msg/turtle.lisp"
 )
 
 # Per-language clean rules from dependency scanning.

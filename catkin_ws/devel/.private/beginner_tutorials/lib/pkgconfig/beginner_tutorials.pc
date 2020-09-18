@@ -1,4 +1,4 @@
-prefix=/home/theis/catkin_ws/devel/.private/beginner_tutorials
+prefix=/home/theis/SoftwareFrameworksAS/catkin_ws/devel/.private/beginner_tutorials
 
 Name: beginner_tutorials
 Description: Description of beginner_tutorials

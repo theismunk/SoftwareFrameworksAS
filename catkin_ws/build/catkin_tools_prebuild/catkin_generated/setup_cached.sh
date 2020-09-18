@@ -7,9 +7,10 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/theis/catkin_ws/devel/.private/catkin_tools_prebuild:$CMAKE_PREFIX_PATH"
+export CMAKE_PREFIX_PATH='/home/theis/SoftwareFrameworksAS/catkin_ws/devel/.private/catkin_tools_prebuild:/opt/ros/melodic'
 export LD_LIBRARY_PATH='/opt/ros/melodic/lib'
 export PKG_CONFIG_PATH='/opt/ros/melodic/lib/pkgconfig'
-export PWD='/home/theis/catkin_ws/build/catkin_tools_prebuild'
-export ROSLISP_PACKAGE_DIRECTORIES="/home/theis/catkin_ws/devel/.private/catkin_tools_prebuild/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
-export ROS_PACKAGE_PATH='/home/theis/catkin_ws/build/catkin_tools_prebuild:/opt/ros/melodic/share:/home/theis/catkin_ws/src/beginner_tutorials:/home/theis/catkin_ws/src/hello_ros'
+export PWD='/home/theis/SoftwareFrameworksAS/catkin_ws/build/catkin_tools_prebuild'
+export PYTHONPATH='/opt/ros/melodic/lib/python2.7/dist-packages'
+export ROSLISP_PACKAGE_DIRECTORIES='/home/theis/SoftwareFrameworksAS/catkin_ws/devel/.private/catkin_tools_prebuild/share/common-lisp'
+export ROS_PACKAGE_PATH='/home/theis/SoftwareFrameworksAS/catkin_ws/build/catkin_tools_prebuild:/opt/ros/melodic/share'

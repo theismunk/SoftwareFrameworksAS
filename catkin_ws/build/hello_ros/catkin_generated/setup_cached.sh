@@ -7,9 +7,7 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/theis/catkin_ws/devel/.private/hello_ros:$CMAKE_PREFIX_PATH"
-export LD_LIBRARY_PATH="/home/theis/catkin_ws/devel/.private/hello_ros/lib:$LD_LIBRARY_PATH"
-export PKG_CONFIG_PATH="/home/theis/catkin_ws/devel/.private/hello_ros/lib/pkgconfig:$PKG_CONFIG_PATH"
-export PWD='/home/theis/catkin_ws/build/hello_ros'
-export ROSLISP_PACKAGE_DIRECTORIES="/home/theis/catkin_ws/devel/.private/hello_ros/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
-export ROS_PACKAGE_PATH="/home/theis/catkin_ws/src/hello_ros:$ROS_PACKAGE_PATH"
+export CMAKE_PREFIX_PATH="/home/theis/SoftwareFrameworksAS/catkin_ws/devel/.private/hello_ros:$CMAKE_PREFIX_PATH"
+export PWD='/home/theis/SoftwareFrameworksAS/catkin_ws/build/hello_ros'
+export ROSLISP_PACKAGE_DIRECTORIES="/home/theis/SoftwareFrameworksAS/catkin_ws/devel/.private/hello_ros/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
+export ROS_PACKAGE_PATH="/home/theis/SoftwareFrameworksAS/catkin_ws/src/hello_ros:$ROS_PACKAGE_PATH"

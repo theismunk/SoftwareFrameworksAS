@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/hello_ros_generate_messages_nodejs"
-  "/home/theis/catkin_ws/devel/.private/hello_ros/share/gennodejs/ros/hello_ros/msg/turtle.js"
+  "/home/theis/SoftwareFrameworksAS/catkin_ws/devel/.private/hello_ros/share/gennodejs/ros/hello_ros/msg/turtle.js"
 )
 
 # Per-language clean rules from dependency scanning.

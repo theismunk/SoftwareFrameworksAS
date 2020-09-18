@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/hello_ros_generate_messages_eus"
-  "/home/theis/catkin_ws/devel/.private/hello_ros/share/roseus/ros/hello_ros/msg/turtle.l"
-  "/home/theis/catkin_ws/devel/.private/hello_ros/share/roseus/ros/hello_ros/manifest.l"
+  "/home/theis/SoftwareFrameworksAS/catkin_ws/devel/.private/hello_ros/share/roseus/ros/hello_ros/msg/turtle.l"
+  "/home/theis/SoftwareFrameworksAS/catkin_ws/devel/.private/hello_ros/share/roseus/ros/hello_ros/manifest.l"
 )
 
 # Per-language clean rules from dependency scanning.

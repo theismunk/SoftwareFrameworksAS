@@ -1,6 +1,6 @@
-devel_space: /home/theis/catkin_ws/devel
+devel_space: /home/theis/SoftwareFrameworksAS/catkin_ws/devel
 install: false
-install_space: /home/theis/catkin_ws/install
+install_space: /home/theis/SoftwareFrameworksAS/catkin_ws/install
 profile: default
-source_space: /home/theis/catkin_ws/src
-workspace: /home/theis/catkin_ws
+source_space: /home/theis/SoftwareFrameworksAS/catkin_ws/src
+workspace: /home/theis/SoftwareFrameworksAS/catkin_ws

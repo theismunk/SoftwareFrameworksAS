@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/hello_ros_generate_messages_py"
-  "/home/theis/catkin_ws/devel/.private/hello_ros/lib/python2.7/dist-packages/hello_ros/msg/_turtle.py"
-  "/home/theis/catkin_ws/devel/.private/hello_ros/lib/python2.7/dist-packages/hello_ros/msg/__init__.py"
+  "/home/theis/SoftwareFrameworksAS/catkin_ws/devel/.private/hello_ros/lib/python2.7/dist-packages/hello_ros/msg/_turtle.py"
+  "/home/theis/SoftwareFrameworksAS/catkin_ws/devel/.private/hello_ros/lib/python2.7/dist-packages/hello_ros/msg/__init__.py"
 )
 
 # Per-language clean rules from dependency scanning.

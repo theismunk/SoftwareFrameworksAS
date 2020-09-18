@@ -1,4 +1,4 @@
-prefix=/home/theis/catkin_ws/install
+prefix=/home/theis/SoftwareFrameworksAS/catkin_ws/install
 
 Name: hello_ros
 Description: Description of hello_ros

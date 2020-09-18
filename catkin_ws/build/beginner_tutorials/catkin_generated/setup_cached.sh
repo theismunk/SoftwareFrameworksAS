@@ -7,7 +7,7 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/theis/catkin_ws/devel/.private/beginner_tutorials:$CMAKE_PREFIX_PATH"
-export PWD='/home/theis/catkin_ws/build/beginner_tutorials'
-export ROSLISP_PACKAGE_DIRECTORIES="/home/theis/catkin_ws/devel/.private/beginner_tutorials/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
-export ROS_PACKAGE_PATH="/home/theis/catkin_ws/src/beginner_tutorials:$ROS_PACKAGE_PATH"
+export CMAKE_PREFIX_PATH="/home/theis/SoftwareFrameworksAS/catkin_ws/devel/.private/beginner_tutorials:$CMAKE_PREFIX_PATH"
+export PWD='/home/theis/SoftwareFrameworksAS/catkin_ws/build/beginner_tutorials'
+export ROSLISP_PACKAGE_DIRECTORIES="/home/theis/SoftwareFrameworksAS/catkin_ws/devel/.private/beginner_tutorials/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
+export ROS_PACKAGE_PATH="/home/theis/SoftwareFrameworksAS/catkin_ws/src/beginner_tutorials:$ROS_PACKAGE_PATH"
